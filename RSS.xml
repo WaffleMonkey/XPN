@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Test RSS Feed</title>
+    <link>https://example.com/</link>
+    <description>RSS feed for XPression testing</description>
+    <language>en-us</language>
+
+    <item>
+      <title>NYC Transit Fare Evasion Concerns</title>
+      <link>https://example.com/news/001</link>
+      <guid>https://example.com/news/001</guid>
+      <pubDate>Fri, 14 Aug 2026 10:26:00 -0400</pubDate>
+      <description>Zohran Mamdani&apos;s free bus rhetoric created a &quot;perfect storm&quot; of fare evasion in New York City, transit union and MTA officials warn amid rising losses.</description>
+    </item>
+
+  </channel>
+</rss>
