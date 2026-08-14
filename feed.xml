@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
     <title>Test RSS Feed</title>
@@ -8,13 +8,16 @@
     <item>
       <title>Weather Alert Test</title>
       <description>Severe thunderstorm&apos;s warning issued.</description>
+      <guid>weather-alert-20260814-1026</guid>
       <pubDate>Fri, 14 Aug 2026 14:26:00 GMT</pubDate>
     </item>
 
     <item>
-      <title>Breaking News Test</title>
-      <description>This is a test message.</description>
-      <pubDate>Fri, 14 Aug 2026 14:26:00 GMT</pubDate>
+      <link>https://www.foxnews.com/media/new-yorkers-take-zohran-mamdani-free-bus-promise-literally-mta-loses-millions-skipped-fares</link>
+      <guid isPermaLink="true">https://www.foxnews.com/media/new-yorkers-take-zohran-mamdani-free-bus-promise-literally-mta-loses-millions-skipped-fares</guid>
+      <title>New Yorkers take Zohran Mamdani free bus promise literally as MTA loses millions in skipped fares</title>
+      <description>Zohran Mamdani&apos;s free bus rhetoric created a &quot;perfect storm&quot; of fare evasion in New York City, transit union and MTA officials warn amid rising losses.</description>
+      <pubDate>Fri, 14 Aug 2026 10:10:50 -0400</pubDate>
     </item>
 
   </channel>
