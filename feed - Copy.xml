@@ -1,0 +1,45 @@
+<rss xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     version="2.0">
+
+  <channel>
+    <title>XPN Test Feed</title>
+    <link>https://github.com/WaffleMonkey/XPN</link>
+    <description>RSS test feed for XPression</description>
+
+    .com/WaffleMonkey/XPN/main/feed.xml"
+               rel="self"
+               type="application/rss+xml" />
+
+    <item>
+      <title>TEST ALERT</title>
+
+      <link>https://example.com/test-alert</link>
+
+      <guid isPermaLink="false">
+        test-alert-20260814-1026
+      </guid>
+
+      <description>
+        Severe thunderstorm&apos;s warning issued.
+      </description>
+
+      <content:encoded><![CDATA[
+        <p>This is a test alert generated from GitHub.</p>
+      ]]></content:encoded>
+
+      <media:content
+        url="https://example.com/test.jpg"
+        type="image/jpeg"
+        expression="full" />
+
+      <dc:creator>Edward</dc:creator>
+
+      <pubDate>Fri, 14 Aug 2026 10:26:00 -0400</pubDate>
+    </item>
+
+  </channel>
+
+</rss>
