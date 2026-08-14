@@ -1,24 +1,117 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
-  <channel>
-    <title>Test RSS Feed</title>
-    <link>https://example.com</link>
-    <description>Test feed for XPression/Ticker</description>
-
-    <item>
-      <title>Weather Alert Test</title>
-      <description>Severe thunderstorm&apos;s warning issued.</description>
-      <guid>weather-alert-20260814-1026</guid>
-      <pubDate>Fri, 14 Aug 2026 14:26:00 GMT</pubDate>
-    </item>
-
-    <item>
-      <link>https://www.foxnews.com/media/new-yorkers-take-zohran-mamdani-free-bus-promise-literally-mta-loses-millions-skipped-fares</link>
-      <guid isPermaLink="true">https://www.foxnews.com/media/new-yorkers-take-zohran-mamdani-free-bus-promise-literally-mta-loses-millions-skipped-fares</guid>
-      <title>New Yorkers take Zohran Mamdani free bus promise literally as MTA loses millions in skipped fares</title>
-      <description>Zohran Mamdani&apos;s free bus rhetoric created a &quot;perfect storm&quot; of fare evasion in New York City, transit union and MTA officials warn amid rising losses.</description>
-      <pubDate>Fri, 14 Aug 2026 10:10:50 -0400</pubDate>
-    </item>
-
-  </channel>
-</rss>
+<rss
+	xmlns:media="http://search.yahoo.com/mrss/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+	<channel>
+		<title>Latest & Breaking News on Fox News</title>
+		<link>https://www.foxnews.com/</link>
+		<description>Discover the latest breaking news feed with Fox. Find out what the latest news is and read about the latest news happening today.</description>
+		<copyright>Copyright 2026 FOX News Network</copyright>
+		<language>en-us</language>
+		<pubDate> Fri, 14 Aug 2026 10:18:54 -0400 </pubDate>
+		<image>
+			<url>https://global.fncstatic.com/static/orion/styles/img/fox-news/logos/fox-news-desktop.png</url>
+			<title>Latest & Breaking News on Fox News</title>
+			<link>https://www.foxnews.com/</link>
+		</image>
+		<atom:link rel="self" href="https://moxie.foxnews.com/google-publisher/latest.xml" type="application/rss+xml"/>
+		<atom:link
+			xmlns:atom="http://www.w3.org/2005/Atom" rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+			<item>
+				<link>https://www.foxnews.com/politics/wwii-memorial-vandalism-suspect-now-custody-charged-two-felonies-pirro-announces</link>
+				<guid isPermaLink="true">https://www.foxnews.com/politics/wwii-memorial-vandalism-suspect-now-custody-charged-two-felonies-pirro-announces</guid>
+				<title>WWII Memorial vandalism suspect now in custody, to be charged with two felonies, Pirro announces</title>
+				<description/>
+				<content:encoded>
+					<p>The suspect accused of vandalizing the World War II Memorial in Washington D.C., has been taken into custody, U.S. Attorney for the District of Columbia Jeanine Pirro announced Friday.</p>
+					<p>The Department of Justice (DOJ) and the U.S. Attorney's Office in the District of Columbia are charging Melissa L. Farris with two felony charges for her alleged role in the vandalism.</p>
+					<p>"Vandalizing our World War II Memorial is a despicable attack on a sacred monument honoring the Americans who fought and died for our freedom. Those Americans include my father and grandfather. This morning, we are filing two felony charges, Depredation Against Property of the United States and Destruction of Veterans' Memorials, in Federal District Court against Melissa L. Farris, offenses that carry penalties of up to ten years in prison. She is now in custody," Pirro added.</p>
+					<p>
+						<i>This is a developing story. Please check back for updates.</i>
+					</p>
+				</content:encoded>
+				<media:content url="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/1200/675/melissa_l_farris.jpg?ve=1&tl=1" type="image/jpeg" expression="full" width="1200" height="675"/>
+				<category domain="foxnews.com/metadata/dc.identifier">7e12f71d-d998-5612-ad3e-438db8b5e53f</category>
+				<category domain="foxnews.com/metadata/prism.channel">fnc</category>
+				<category domain="foxnews.com/metadata/dc.source">Fox News</category>
+				<category domain="foxnews.com/section-path">fox-news/politics</category>
+				<category domain="foxnews.com/content-type">article</category>
+				<pubDate>Fri, 14 Aug 2026 10:18:54 -0400</pubDate>
+			</item>
+			<item>
+				<link>https://www.foxnews.com/media/new-yorkers-take-zohran-mamdani-free-bus-promise-literally-mta-loses-millions-skipped-fares</link>
+				<guid isPermaLink="true">https://www.foxnews.com/media/new-yorkers-take-zohran-mamdani-free-bus-promise-literally-mta-loses-millions-skipped-fares</guid>
+				<title>New Yorkers take Zohran Mamdani free bus promise literally as MTA loses millions in skipped fares</title>
+				<description>Zohran Mamdani&apos;s free bus rhetoric created a &quot;perfect storm&quot; of fare evasion in New York City, transit union and MTA officials warn amid rising losses.</description>
+				<content:encoded>
+					<p>Political promises of "free buses" in 
+						<a href="https://foxnews.com/category/us/new-york-city" target="_blank" rel="noopener noreferrer">New York City</a> are contributing to a spike in fare evasion that is costing the city’s mass transit system millions of dollars, transit officials warn.
+					</p>
+					<p>In July, Metropolitan Transportation Authority (MTA) Chairman Janno Lieber blamed political rhetoric for fueling fare evasion, though he never mentioned Mayor 
+						<a href="https://foxnews.com/category/person/zohran-mamdani" target="_blank" rel="noopener noreferrer">Zohran Mamdani</a> by name.
+					</p>
+					<p>"There’s a trend that broke out," Lieber told reporters following a meeting of the Metropolitan Transportation Authority board, according to the 
+						<a href="https://nypost.com/2026/07/29/us-news/mta-boss-blames-mamdanis-free-bus-crusade-as-paid-ridership-drops-a-whopping-7-7/" target="_blank" rel="noopener">New York Post</a>. "With malice towards none, I say all of the talk of free buses, it has an impact."
+					</p>
+					<p>The MTA reported that paid bus ridership fell 
+						<a href="https://www.mta.info/document/214881" target="_blank" rel="noopener noreferrer nofollow">nearly 8% in June</a> compared to the same month last year. During Mamdani’s first six months in office, bus fare revenue fell by $31 million compared to the first half of 2025. Agency estimates show nearly half of bus riders now skip the $3 fare.
+					</p>
+					<p>
+						<a href="https://www.foxnews.com/media/mamdani-shrugs-off-aocswoke-1-comments-critic-says-progressives-cant-absolved-radical-past" target="_blank" rel="noopener noreferrer">
+							<strong>MAMDANI SHRUGS OFF AOC'S 'WOKE 1' COMMENTS, BUT CRITIC SAYS PROGRESSIVES CAN'T BE ABSOLVED OF 'RADICAL' PAST</strong>
+						</a>
+					</p>
+					<p>Mamdani made the slogan "fast and free buses" a major part of his 2025 mayoral campaign. However, the MTA is controlled by Democratic Gov. 
+						<a href="https://foxnews.com/category/person/kathy-hochul" target="_blank" rel="noopener noreferrer">Kathy Hochul</a> and the state, rather than City Hall. While the mayor and Hochul 
+						<a href="https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani-and-governor-hochul-unveil-historic-plan-to-build-" target="_blank" rel="noopener noreferrer nofollow">unveiled plans</a> on July 8 to focus instead on speeding up bus routes, experts and union leaders say the "free bus" rhetoric has already contributed to fare evasion.
+					</p>
+					<p>John V. Chiarello, president of 
+						<a href="https://foxnews.com/category/us/economy/labor-unions" target="_blank" rel="noopener noreferrer">Transport Workers Union</a> Local 100, the city’s largest transit union representing more than 40,000 transit workers, told 
+						<a href="https://www.foxnews.com/category/media" target="_blank" rel="noopener noreferrer">Fox News Digital</a> that current fare evasion levels are the "worst" his drivers have seen.
+					</p>
+					<p>He noted that buses were temporarily free during the COVID-19 pandemic and said the MTA worked to reverse the resulting habit of not paying fares, but that behavior has resurfaced in recent months.</p>
+					<p>
+						<a href="https://foxnews.com/politics/payroll-data-exposes-six-figure-salaries-behind-transit-strike-grinding-nyc-travel-halt" target="_blank" rel="noopener noreferrer">
+							<strong>PAYROLL DATA EXPOSES SIX-FIGURE SALARIES BEHIND TRANSIT STRIKE GRINDING NYC TRAVEL TO A HALT</strong>
+						</a>
+					</p>
+					<p>"Once you make something free, and you give people a feeling of entitlement, and then the mayor says that he wants to make buses free, you have a perfect storm of people not wanting to pay," Chiarello said.</p>
+					<p>Chiarello noted that union rules strictly instruct bus operators not to confront fare evaders for their own safety following past violent attacks on drivers. He also pushed back on claims that fare-jumpers are strictly low-income New Yorkers.</p>
+					<p>"I can see myself when I'm sitting in the buses where people with suits are coming on. These are people that have the money. It's just that they're not paying because it's in vogue now," Chiarello added.</p>
+					<p>Lieber made similar comments, calling on higher earners to pay their fares rather than pass the cost on to other taxpayers.</p>
+					<p>
+						<a href="https://foxnews.com/opinion/mamdanis-city-grocery-plan-could-leave-taxpayers-paying-every-banana" target="_blank" rel="noopener noreferrer">
+							<strong>MAMDANI’S CITY GROCERY PLAN COULD LEAVE TAXPAYERS PAYING FOR EVERY BANANA</strong>
+						</a>
+					</p>
+					<p>"For all the people who are on their way to office jobs, who are making a good income, who walk by the bus driver and don’t pay or get on the back and don’t pay, I say it’s time to be New Yorkers," Lieber said, according to The New York Post. "You’re just passing along the cost to another taxpayer. Somebody’s going to have to pay for that ride."</p>
+					<p>The MTA is also losing fare revenue from riders who do not pay. Nicole Gelinas, a senior fellow at the Manhattan Institute specializing in urban policy, explained the fiscal impact of the mayor’s proposal.</p>
+					<p>"The [Independent Budget Office] has estimated free buses would cost the MTA about 
+						<a href="https://www.ibo.nyc.gov/content/publications/2026-june-how-much-will-it-cost-to-make-buses-fare-free" target="_blank" rel="noopener noreferrer nofollow">$1.1 billion a year</a> in fare revenue. And we need that money. The MTA [is] already looking at a $300 million deficit for next year," Gelinas told Fox News Digital. "The idea of giving up a billion dollars plus in fare revenue from the buses, when you have no way to replace that, it's just not fiscally wise."
+					</p>
+					<p>Gelinas said a herd mentality is also at play, with paying riders watching others board without paying.</p>
+					<p>"You pay your fare, and then you watch 10 people get on and not pay the fare. So at some point, you're just going to think like, ‘Why am I paying the fare?’" Gelinas said. "So you really want to move back from that tipping point because, right now, if you're paying the fare, you're basically subsidizing the people who are not."</p>
+					<p>Mamdani has previously defended his fare-free transit push by arguing that widespread non-payment is spurred by an affordability crisis.</p>
+					<p>
+						<a href="https://www.foxnews.com/media" target="_blank" rel="noopener noreferrer">
+							<strong>CLICK HERE FOR MORE COVERAGE OF MEDIA AND CULTURE</strong>
+						</a>
+					</p>
+				</content:encoded>
+				<media:content url="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/zohran-mamdani-nyc-buses.jpg?ve=1&tl=1" type="image/jpeg" expression="full" width="931" height="523"/>
+				<category domain="foxnews.com/metadata/dc.identifier">f50cccb6-0006-5d32-a164-9c5618893a38</category>
+				<category domain="foxnews.com/metadata/prism.channel">fnc</category>
+				<category domain="foxnews.com/metadata/dc.source">Fox News</category>
+				<category domain="foxnews.com/taxonomy">fox-news/media</category>
+				<category domain="foxnews.com/taxonomy">fox-news/person/zohran-mamdani</category>
+				<category domain="foxnews.com/taxonomy">fox-news/world/disasters/transportation</category>
+				<category domain="foxnews.com/taxonomy">fox-news/topic/trending-news</category>
+				<category domain="foxnews.com/taxonomy">fox-news/us/new-york-city</category>
+				<category domain="foxnews.com/taxonomy">fox-news/culture-trends</category>
+				<category domain="foxnews.com/section-path">fox-news/media</category>
+				<category domain="foxnews.com/content-type">article</category>
+				<pubDate>Fri, 14 Aug 2026 10:10:50 -0400</pubDate>
+			</item>
+		</channel>
+	</rss>
